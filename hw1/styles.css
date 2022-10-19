@@ -1,0 +1,23 @@
+@font-face {
+    font-family: fontyy;
+    src: url(./fontyy.ttf);
+}
+.visit{
+    background-color:  #2f3e46;
+    color: #dad7cd;
+    font-size: 35px;
+    margin-left: 100px;
+    width: 300px;
+    height: 52px;
+}
+
+.par{
+    font-family: fontyy; 
+
+}
+
+.visit:hover {
+    background-color:#dad7cd;
+    transition: 0.7s;
+    color: #2f3e46;
+}
